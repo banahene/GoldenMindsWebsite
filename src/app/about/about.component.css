@@ -1,0 +1,25 @@
+#pageDisplayImage {
+    padding: 30px 0px;
+    background-color: rgba(0,0,0, 0.7);
+}
+
+#pageDisplayImage div div {
+    height: 100px;
+    width: 100%;
+    background-image: url('https://kwasiasare.files.wordpress.com/2016/03/kente-cloth-in-folds-3.jpg?w=729');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+#pageContent {
+    background-color: #FFFFFF;
+    padding: 40px 0px;
+}
+
+#pageContent div p {
+    text-align: justify;
+}
+
+

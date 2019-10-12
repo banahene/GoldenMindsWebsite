@@ -1,1 +1,25 @@
 /* You can add global styles to this file, and also import other style files */
+@import '~bootstrap/dist/css/bootstrap.css';
+
+* {
+    /* font-family: 'Nunito', sans-serif; */
+}
+
+.content {
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+html {
+    height: 100%;
+    background-image: url('https://source.unsplash.com/1zR3WNSTnvY');
+    background-position:center;
+    background-repeat:no-repeat;
+    background-size:cover;    
+    
+    background-attachment: fixed;
+}
+
+body {
+    background: transparent;
+}

@@ -1,0 +1,29 @@
+#mainNavbar {
+    font-size: 1.1rem;
+    font-weight: 700;
+}
+
+#mainNavbar .nav-link {
+      color: #4B0082;
+}
+
+#mainNavbar .nav-link:hover {
+    color: #ea1c2c;
+}
+
+#mainNavbar .navbar-brand {
+    color: #ea1c2c;
+  
+    font-size: 1.5rem;
+    font-weight: 100;
+}
+
+/* .navbar {
+    height: 5rem;
+} */
+
+
+/* .navbar.scrolled {
+    background-color: var(--purple);
+    transition: background 500ms;
+} */
